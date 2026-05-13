@@ -1,2 +1,11 @@
-in svm,linear regression and logistic regression --> model.fit(X_train,y_train) this will learn from the data
+1.in svm,linear regression and logistic regression --> model.fit(X_train,y_train) this will learn from the data
 but in case of KNN it stores the data hence KNN is lazy learner
+
+**DECISION TREE**
+--> to check the purity of the node we use gini index and entropy
+-->entropy= (-plog2p)-(plog2p)
+-->gini index= 1-summation(p)^2
+
+-->INFORMATION GAIN::::--
+small dataset-->entropy
+large dataset-->gini index
