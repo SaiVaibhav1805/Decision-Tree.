@@ -1,0 +1,2 @@
+in svm,linear regression and logistic regression --> model.fit(X_train,y_train) this will learn from the data
+but in case of KNN it stores the data hence KNN is lazy learner
